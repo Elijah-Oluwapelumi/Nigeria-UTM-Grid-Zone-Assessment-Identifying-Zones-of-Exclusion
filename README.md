@@ -60,8 +60,7 @@ Nigeria — Federal Republic of Nigeria, West Africa
 - Spans UTM Zones 31, 32, and 33
 - Several states cross UTM zone boundaries, creating areas of dual-zone coverage
 
-<!-- DRAG YOUR UTM GRID ZONE MAP HERE -->
-
+ 
 ---
 
 ## Data Sources
@@ -134,9 +133,9 @@ The spatial assessment revealed that several Nigerian states do not fall neatly 
 
 What began as a shapefile analysis became **spatial intelligence** — revealing that the simplified zonal narrative widely used in Nigeria is cartographically incomplete.
 
-<!-- DRAG YOUR NIGERIA UTM GRID ZONE ASSESSMENT MAP HERE -->
+ 
+ <img width="5846" height="4134" alt="grid_2" src="https://github.com/user-attachments/assets/256279f5-d6ff-4832-8b0f-f8e1835f9bed" />
 
----
 
 ## Spatial Analysis
 
